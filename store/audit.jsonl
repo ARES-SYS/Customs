@@ -1,0 +1,2 @@
+
+{"direction": "INBOUND", "session": "20260912_072609", "filepath": "/tmp/aduana_scan/MCPR.exe", "verdict": "REVIEW", "score": 35, "signals": ["entropy_high (+15)", "entropy_deviation (+20)"], "_timestamp": "2026-09-12T07:26:10.697407+00:00"}
